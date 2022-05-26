@@ -23,7 +23,7 @@ export default function Index(){
                 <button onClick={VerificarCorPrimaria}>Verificar</button>
             </div>
             <div>
-                É cor Primaria ? {resposta};
+                É cor Primaria ? {resposta}
             </div>
         </main>
     )

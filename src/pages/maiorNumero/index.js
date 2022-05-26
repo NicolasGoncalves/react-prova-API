@@ -31,7 +31,7 @@ export default function index(){
             </div>
             <div>
                 <button onClick={verificarMaior}> </button>
-                O maior Numero é :
+                O maior Numero é : {resposta}
             </div>
         </main>
     )

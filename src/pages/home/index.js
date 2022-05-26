@@ -10,6 +10,9 @@ export default function index(){
                 <li> <Link to='/frequencia' > Frequencia </Link></li>
                 <li> <Link to='/ingresso' > Ingresso </Link></li>
                 <li> <Link to='/maiorNumero' >Maior Numero </Link></li>
+                <li> <Link to='/dobro'> Dobro </Link></li>
+                <li> <Link to='/somar'> Soma </Link></li>
+                <li> <Link to='/tabuada'> tabuada </Link></li>
 
             </ul>
         </main>
